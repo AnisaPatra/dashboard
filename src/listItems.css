@@ -1,0 +1,29 @@
+.icon{
+    color: white;
+}
+
+.icon:hover{
+    color: rgb(8, 188, 212);
+}
+
+.active{
+    color: rgb(8, 120, 212);
+}
+
+.MuiButtonBase-root:hover {
+    border-right: 8px solid rgb(8, 188, 212);
+}
+
+.MuiButtonBase-root{
+    color: white !important;
+    text-transform: uppercase;
+}
+
+.MuiTypography-displayBlock:hover {
+    color: rgb(8, 188, 212);
+}
+
+.MuiTypography-body1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+    letter-spacing: 1.5px !important;
+}
